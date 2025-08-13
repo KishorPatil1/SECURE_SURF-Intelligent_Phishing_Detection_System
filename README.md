@@ -298,17 +298,3 @@ The system is trained on:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
-
-- Dataset providers for phishing and legitimate URL samples
-- Open source ML libraries (scikit-learn, PyTorch)
-- Three.js for 3D web graphics
-- Chrome Extension API documentation
-
-## 📞 Support
-
-For support, email [your-email@domain.com] or create an issue in the GitHub repository.
-
----
-
-**⚠️ Disclaimer**: This tool is for educational and research purposes. While it aims to detect phishing websites accurately, it should not be the only security measure. Always exercise caution when browsing the internet and use additional security tools.
